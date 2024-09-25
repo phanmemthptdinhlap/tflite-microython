@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2
       - name: Prepare to Build Tensorflow Micropython Firmware for ESP32
         run: |
           git submodule init
