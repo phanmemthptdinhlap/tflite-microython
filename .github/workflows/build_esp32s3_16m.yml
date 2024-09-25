@@ -103,6 +103,6 @@ jobs:
           name:  microlite-esp32-s3-spiram-octal-firmware
           path: |
             boards/esp32/MICROLITE_S3_SPIRAM_OCTAL/build/firmware.bin
-            boards/esp32/MICROLITE_S3_SPIRAM/build/bootloader/bootloader.bin
-            boards/esp32/MICROLITE_S3_SPIRAM/build/partition_table/partition-table.bin
-            boards/esp32/MICROLITE_S3_SPIRAM/build/micropython.bin
+            boards/esp32/MICROLITE_S3_SPIRAM_OCTAL/build/bootloader/bootloader.bin
+            boards/esp32/MICROLITE_S3_SPIRAM_OCTAL/partition_table/partition-table.bin
+            boards/esp32/MICROLITE_S3_SPIRAM_OCTAL/micropython.bin
