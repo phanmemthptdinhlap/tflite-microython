@@ -105,4 +105,3 @@ jobs:
             boards/esp32/MICROLITE_S3_SPIRAM_OCTAL/build/firmware.bin
             boards/esp32/MICROLITE_S3_SPIRAM_OCTAL/build/bootloader/bootloader.bin
             boards/esp32/MICROLITE_S3_SPIRAM_OCTAL/partition_table/partition-table.bin
-            boards/esp32/MICROLITE_S3_SPIRAM_OCTAL/micropython.bin
